@@ -34,9 +34,9 @@ export class AppComponent {
 
   events: Event[] = [
   { 
-    title: '‼️3-5.10.2025 r. WARSZTATY MIŁOŚĆ JEST NAJWAŻNIEJSZA', 
+    title: '3-5.10.2025 r. WARSZTATY MIŁOŚĆ JEST NAJWAŻNIEJSZA', 
     date: new Date('2025-10-05'), 
-    emoji: '📅', 
+    emoji: '📌', 
     show: false,
   description: `<b>Miejsce:</b> Dom Rekolekcyjny "Jutrzenka" Zgromadzenie Sióstr Maryi Niepokalanej w Bardzie Śląskim, ul. 1 Maja 12, 57-256 Bardo<br>
                     <b>Kiedy:</b> <br><b>Start:</b> PIĄTEK - 17.00<br>
@@ -53,9 +53,9 @@ Weekendowe rekolekcje formacyjne dla Liderów, Animatorów i Odpowiedzialnych Ws
 `
   },
     { 
-      title: '‼️27.10.2025 r. Spotkanie - Szkoła Uwielbienia', 
+      title: '27.10.2025 r. Spotkanie - Szkoła Uwielbienia', 
       date: new Date('2025-10-28'), 
-      emoji: '📅', 
+      emoji: '📌', 
       show: false,
       description: `<b>Miejsce:</b> Dom Parafialny przy ul. Monte Cassino 68 we Wrocławiu<br>
                     <b>Godzina:</b> 19:00<br>
