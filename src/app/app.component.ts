@@ -34,7 +34,7 @@ export class AppComponent {
 
   events: Event[] = [
   { 
-    title: '3-5.10.2025 r. WARSZTATY MIŁOŚĆ JEST NAJWAŻNIEJSZA', 
+    title: '3-5.10.2025 r. Miłość jest najważniejsza - WARSZTATY', 
     date: new Date('2025-10-05'), 
     emoji: '📌', 
     show: false,
@@ -53,7 +53,7 @@ Weekendowe rekolekcje formacyjne dla Liderów, Animatorów i Odpowiedzialnych Ws
 `
   },
     { 
-      title: '27.10.2025 r. Spotkanie - Szkoła Uwielbienia', 
+      title: '27.10.2025 r. Szkoła Uwielbienia', 
       date: new Date('2025-10-28'), 
       emoji: '📌', 
       show: false,
